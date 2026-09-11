@@ -29,4 +29,3 @@ test('User can see own article in "Global feed" when not logged in', async ({
     articleWithoutTags.text,
   );
 });
-//comment for pushed fix 1
